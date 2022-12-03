@@ -1,0 +1,8 @@
+C:\Users\serda\source\repos\Hafta9Ornek6\Hafta9Ornek6\bin\Debug\Hafta9Ornek6.exe.config
+C:\Users\serda\source\repos\Hafta9Ornek6\Hafta9Ornek6\bin\Debug\Hafta9Ornek6.exe
+C:\Users\serda\source\repos\Hafta9Ornek6\Hafta9Ornek6\bin\Debug\Hafta9Ornek6.pdb
+C:\Users\serda\source\repos\Hafta9Ornek6\Hafta9Ornek6\obj\Debug\Hafta9Ornek6.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\Hafta9Ornek6\Hafta9Ornek6\obj\Debug\Hafta9Ornek6.csproj.SuggestedBindingRedirects.cache
+C:\Users\serda\source\repos\Hafta9Ornek6\Hafta9Ornek6\obj\Debug\Hafta9Ornek6.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\Hafta9Ornek6\Hafta9Ornek6\obj\Debug\Hafta9Ornek6.exe
+C:\Users\serda\source\repos\Hafta9Ornek6\Hafta9Ornek6\obj\Debug\Hafta9Ornek6.pdb

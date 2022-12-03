@@ -1,0 +1,8 @@
+C:\Users\serda\source\repos\Hafta4Ornek10\Hafta4Ornek10\bin\Debug\Hafta4Ornek10.exe.config
+C:\Users\serda\source\repos\Hafta4Ornek10\Hafta4Ornek10\bin\Debug\Hafta4Ornek10.exe
+C:\Users\serda\source\repos\Hafta4Ornek10\Hafta4Ornek10\bin\Debug\Hafta4Ornek10.pdb
+C:\Users\serda\source\repos\Hafta4Ornek10\Hafta4Ornek10\obj\Debug\Hafta4Ornek10.csproj.AssemblyReference.cache
+C:\Users\serda\source\repos\Hafta4Ornek10\Hafta4Ornek10\obj\Debug\Hafta4Ornek10.csproj.SuggestedBindingRedirects.cache
+C:\Users\serda\source\repos\Hafta4Ornek10\Hafta4Ornek10\obj\Debug\Hafta4Ornek10.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\Hafta4Ornek10\Hafta4Ornek10\obj\Debug\Hafta4Ornek10.exe
+C:\Users\serda\source\repos\Hafta4Ornek10\Hafta4Ornek10\obj\Debug\Hafta4Ornek10.pdb
